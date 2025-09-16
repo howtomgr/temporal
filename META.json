@@ -1,0 +1,61 @@
+{
+  "category": "workflow-engines",
+  "created_date": "2025-09-15T22:48:59.281923",
+  "default_ports": [
+    80,
+    443,
+    7233
+  ],
+  "dependencies": [],
+  "description": "temporal is a free and open-source workflow orchestration. Temporal provides workflow orchestration platform for mission-critical applications",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/workflow-engines/temporal",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/workflow-engines/temporal",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.281950",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "temporal",
+  "repository_url": "https://github.com/howtomgr/temporal",
+  "spec_version": "2.0",
+  "subcategory": "workflow-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "workflow-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "temporal Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/workflow-engines/temporal"
+}
